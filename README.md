@@ -1,14 +1,6 @@
 # Fortunate
 A money management app that helps you track your expenditure.
 
-# Our Team
-| First name | Last name | York Email | Lecture Section | Lab Section  |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Sana  | Morshedzadeh  | sanamz@my.yorku.ca | P | 01
-| Mohammad  | Hosseini  | mmhoss@my.yorku.ca | P | 01
-| Melika  | Sherafat  | Melika.sherafatt@gmail.com | M | 01
-| Amirhossein  | Mansouri  | amir01mn@my.yorku.ca | M | 04
-
 # Project Description:
 
 The topic we chose for this project is a money management application. This app allows users to track their expenses in different categories, such as groceries, clothes, foods, exercise, etc. Users are able to add, delete and edit categories and have a personalized set of categories. It also lets them see their total monthly expenditure and provides them with visualizations of their expenditure distribution by showing a percentage graph. In addition, users have the option to set limits for their expenditure and see how close they are to that limit. They also have the option to log in/out and delete their account. Users can view the chart of their expenditure in different categories.
